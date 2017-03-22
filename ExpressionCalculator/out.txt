@@ -1,0 +1,23 @@
+{
+    "Expression": {
+        "operation": "MULTIPLY",
+        "left": {
+            "INTEGER": "3",
+        }
+        "right": {
+            "operation": "MULTIPLY",
+            "left": {
+                "INTEGER": "2",
+            }
+            "right": {
+                "operation": "PLUS",
+                "left": {
+                    "INTEGER": "3",
+                }
+                "right": {
+                    "INTEGER": "10",
+                }
+            }
+        }
+    }
+}
