@@ -1,0 +1,15 @@
+61     2015-10-06 00:16:43,030 TRACE                   students.util.MailUtil  - Getting properties
+74     2015-10-06 00:16:43,043 TRACE                   students.util.MailUtil  - Setting up smtp session
+74     2015-10-06 00:16:43,043 TRACE                   students.util.MailUtil  - Formatting the new message
+96     2015-10-06 00:16:43,065 TRACE                   students.util.MailUtil  - Sending message
+2406   2015-10-06 00:16:45,375 TRACE                   students.util.MailUtil  - Message successfully sent
+77404  2015-10-06 00:57:51,691 TRACE                   students.util.MailUtil  - Getting properties
+77418  2015-10-06 00:57:51,705 TRACE                   students.util.MailUtil  - Setting up smtp session
+77418  2015-10-06 00:57:51,705 TRACE                   students.util.MailUtil  - Formatting the new message
+77455  2015-10-06 00:57:51,742 TRACE                   students.util.MailUtil  - Sending message
+79801  2015-10-06 00:57:54,088 TRACE                   students.util.MailUtil  - Message successfully sent
+239    2015-10-06 10:44:56,952 TRACE                   students.util.MailUtil  - Getting properties
+282    2015-10-06 10:44:56,995 TRACE                   students.util.MailUtil  - Setting up smtp session
+282    2015-10-06 10:44:56,995 TRACE                   students.util.MailUtil  - Formatting the new message
+324    2015-10-06 10:44:57,037 TRACE                   students.util.MailUtil  - Sending message
+103597 2015-10-06 10:46:40,310 TRACE                   students.util.MailUtil  - Message successfully sent
